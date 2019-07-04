@@ -18,3 +18,7 @@ Well, I did not do an analysis on this. But, more or less I did some tests with 
 
 **Extra bits:**
   * [Image Compression using Huffman Coding (GeeksforGeeks Blog)](https://www.geeksforgeeks.org/image-compression-using-huffman-coding/)
+
+### Things to do:
+ * Performance improvement
+ * A better explanation of how it works.
